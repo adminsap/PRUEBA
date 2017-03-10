@@ -1,0 +1,9 @@
+_schema-version: '2.0'
+ID: test
+description: test
+version: 0.0.1
+
+modules:
+ - name: test.js
+   type: nodejs
+   path: test.js
